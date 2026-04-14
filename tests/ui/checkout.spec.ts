@@ -7,7 +7,7 @@ let checkoutPage: CheckoutPage;
 
 test.beforeEach(async ({ page }) => {
   loginPage = new LoginPage(page);
-  checkoutPage = new CheckoutPage(page); // We grab the new remote control
+  checkoutPage = new CheckoutPage(page);
   
   await loginPage.navigate();
   await loginPage.login('standard_user', 'secret_sauce');
