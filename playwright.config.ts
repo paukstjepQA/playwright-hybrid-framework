@@ -1,17 +1,30 @@
 import { defineConfig, devices } from '@playwright/test';
 
 export default defineConfig({
-  testDir: './tests', // Playwright will automatically look in /ui and /api
+  testDir: './tests', 
+  reporter: 'html',
   retries: 1,
-  workers: 1,
+  
+  workers: undefined, 
+  
   use: {
     headless: true,
-    trace: 'retain-on-failure',
+
+    trace: 'on', 
   },
+  
   projects: [
     {
       name: 'chromium',
       use: { ...devices['Desktop Chrome'] },
+    },
+    {
+      name: 'firefox',
+      use: { ...devices['Desktop Firefox'] },
+    },
+    {
+      name: 'webkit',
+      use: { ...devices['Desktop Safari'] },
     },
   ],
 });
