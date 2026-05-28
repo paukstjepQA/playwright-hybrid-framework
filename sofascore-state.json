@@ -1,0 +1,164 @@
+{
+  "cookies": [
+    {
+      "name": "_GRECAPTCHA",
+      "value": "09AKhCRwgYhV9svIAz0FF1q74joMzek1lcdJIeQUmwhROzi9rov67YyXHTKI-1GfKXRl0wAK5rf8BkbExDij0JhEU",
+      "domain": "www.google.com",
+      "path": "/recaptcha",
+      "expires": 1795539635.120218,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "FCCDCF",
+      "value": "%5Bnull%2Cnull%2Cnull%2C%5B%22CQk6zcAQk6zcAEsACBENCgFoAP_gAEPgAA6ILUEB5C5OTSFBYTZ1KIsEYAAHwRgAJsAgAgYAggABQJKU5JwCBGAAEAhIhiICmAAAKlSBIAFAGAAQAEAAAAAAIAAEIAQQgAAIJCAAAAABAABACAAoAYoAGAAAwCiEBAUAkBgMQNIISNyQCQAABSCAQgAAEACAAQAAAFhgIAEA4AAAUGgEEIBAWAAAEEEYABnshAAoIAAgABAQQAgAACQiRQACgCAAFDQgABAMAAgAAggABACAAEAEFqCA8hcmJpCgsBgqkEWCEAAL4IwAE2AQAAMAQQAAoElKckYBCjAAAAQEABEADAAAESoAkACADAQAACAAAAAAEAASAAIIQAAEABAAABAAgAAgAAAEAMUADAAAYBQCAgKAQIQGIGkAJC5IBIAQApBAIEAACABAAIAAACQwEACAcAAAKDAACEAgLAAACCAMAAz2QgAQEAAAAEgAIAQAABIRIgABAAAAChoQAAAEAAQAAQQAAgBAACACAAA.ILUEB5C5OTSFBYTZ1KIsEYAAXwRgAJsAgAgYAggABQJKU5JwCFGAAEAhIhiICmAAAKlSBIAFAGAgQAEAAAAAAIAAkIAQQgAAIJCAAACABAABACAAoAYoAGAAAwCiEBAUAkRgMQNIISNyQCQAgBSCAQoAAEACAAQAAAFhgIAEA4AAAUGgEEIBAWAAAEEEYABnshAAoIAAgAJAQQAgAACQiRQACgCAAFDQgABAMAAgAAggABACAAEAEA.dngACAAAAAA%22%2C%222~55.70.89.108.135.147.149.161.184.211.259.272.313.314.340.358.385.415.442.486.540.621.938.981.1025.1029.1031.1033.1046.1067.1092.1097.1126.1205.1268.1301.1329.1514.1516.1558.1579.1584.1598.1616.1651.1697.1716.1753.1782.1810.1832.1859.1917.1985.1987.2068.2069.2140.2224.2271.2282.2316.2328.2331.2373.2440.2501.2567.2571.2572.2575.2577.2628.2629.2642.2646.2650.2657.2677.2767.2778.2822.2860.2878.2887.2889.2898.2922.2970.3031.3169.3182.3190.3194.3215.3226.3234.3290.3292.3300.3330.3331.4631.10631.14332.28031.29631.45931~dv.%22%2C%223FED0C6C-4E03-4F6F-B3BD-8AF2C1125049%22%5D%2Cnull%2Cnull%2C%5B%5B32%2C%22%5B%5C%221222d1bb-0776-44fb-9177-9fc3f97f9f30%5C%22%2C%5B1779987632%2C891000000%5D%5D%22%5D%5D%5D",
+      "domain": ".sofascore.com",
+      "path": "/",
+      "expires": 1813683635,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__gads",
+      "value": "ID=817c014ca1825c9d:T=1779987638:RT=1779987638:S=ALNI_MZ59JSA9nXqhQn5YH86xltZtlxyVw",
+      "domain": ".sofascore.com",
+      "path": "/",
+      "expires": 1813683638,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__gpi",
+      "value": "UID=000013acbc00e28a:T=1779987638:RT=1779987638:S=ALNI_MbMiVtDgXMFsKQuixx4wPNfrPkQLg",
+      "domain": ".sofascore.com",
+      "path": "/",
+      "expires": 1813683638,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__eoi",
+      "value": "ID=8897ad29508fbab9:T=1779987638:RT=1779987638:S=AA-AfjY4N_uTnNWzYSRIHSH4PXz9",
+      "domain": ".sofascore.com",
+      "path": "/",
+      "expires": 1795539638,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "FCNEC",
+      "value": "%5B%5B%22AKsRol8m1WfHfEAMpLnWwqkQVfiwGdDu3mFPY168tsKfv6R1aIb4KreFx8kXMhgTjbs8KwWs_k5uL0pc1AgicAFEvWR557XitxWBLflTEUks7lHDLrGou1hzku2NNbb3DEtHgUfUluOVHCl57Ow5eBltLDiQK6ZP_g%3D%3D%22%5D%5D",
+      "domain": ".sofascore.com",
+      "path": "/",
+      "expires": 1811523636,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ar_debug",
+      "value": "1",
+      "domain": ".doubleclick.net",
+      "path": "/",
+      "expires": 1782579636.412131,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "IDE",
+      "value": "AHWqTUnjnRNBw972JKA7K8YKSwr1UT5eJ-VJ5wHmVGbhz0h97JZcwlzSDRON1PsG",
+      "domain": ".doubleclick.net",
+      "path": "/",
+      "expires": 1813683636.413009,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://www.sofascore.com",
+      "localStorage": [
+        {
+          "name": "natsEventQueue",
+          "value": "\"[{\\\"eventName\\\":\\\"app_theme_change\\\",\\\"eventParams\\\":{\\\"before_change\\\":\\\"new_user\\\",\\\"after_change\\\":\\\"system_light\\\",\\\"event_date\\\":\\\"20260528\\\",\\\"event_timestamp\\\":1779987629990000,\\\"user_id\\\":\\\"d390d6fa-3e56-4b83-8b8b-9cc63e844b9b\\\"}},{\\\"eventName\\\":\\\"language_change\\\",\\\"eventParams\\\":{\\\"before_change\\\":\\\"new_user\\\",\\\"after_change\\\":\\\"hr\\\",\\\"event_date\\\":\\\"20260528\\\",\\\"event_timestamp\\\":1779987629990000,\\\"user_id\\\":\\\"d390d6fa-3e56-4b83-8b8b-9cc63e844b9b\\\"}},{\\\"eventName\\\":\\\"open_unpopular_page\\\",\\\"eventParams\\\":{\\\"name\\\":\\\"Nogomet - rezultati uživo, raspored i tablice | Sofascore\\\",\\\"link\\\":\\\"/hr\\\",\\\"type\\\":\\\"/\\\",\\\"event_date\\\":\\\"20260528\\\",\\\"event_timestamp\\\":1779987629992000,\\\"user_id\\\":\\\"d390d6fa-3e56-4b83-8b8b-9cc63e844b9b\\\"}},{\\\"eventName\\\":\\\"user_segmentation\\\",\\\"eventParams\\\":{\\\"type\\\":\\\"fresh\\\",\\\"event_date\\\":\\\"20260528\\\",\\\"event_timestamp\\\":1779987630124000,\\\"user_id\\\":\\\"d390d6fa-3e56-4b83-8b8b-9cc63e844b9b\\\"}},{\\\"eventName\\\":\\\"user_interaction\\\",\\\"eventParams\\\":{\\\"action\\\":\\\"impression\\\",\\\"location\\\":\\\"main_page\\\",\\\"type\\\":\\\"featured_match\\\",\\\"event_date\\\":\\\"20260528\\\",\\\"event_timestamp\\\":1779987631301000,\\\"user_id\\\":\\\"d390d6fa-3e56-4b83-8b8b-9cc63e844b9b\\\"}},{\\\"eventName\\\":\\\"user_interaction\\\",\\\"eventParams\\\":{\\\"action\\\":\\\"impression\\\",\\\"location\\\":\\\"main_page\\\",\\\"type\\\":\\\"featured_match\\\",\\\"event_date\\\":\\\"20260528\\\",\\\"event_timestamp\\\":1779987631301000,\\\"user_id\\\":\\\"d390d6fa-3e56-4b83-8b8b-9cc63e844b9b\\\"}},{\\\"eventName\\\":\\\"user_interaction\\\",\\\"eventParams\\\":{\\\"action\\\":\\\"impression\\\",\\\"location\\\":\\\"main_page\\\",\\\"type\\\":\\\"featured_match\\\",\\\"event_date\\\":\\\"20260528\\\",\\\"event_timestamp\\\":1779987631301000,\\\"user_id\\\":\\\"d390d6fa-3e56-4b83-8b8b-9cc63e844b9b\\\"}},{\\\"eventName\\\":\\\"user_interaction\\\",\\\"eventParams\\\":{\\\"action\\\":\\\"impression\\\",\\\"location\\\":\\\"main_page\\\",\\\"type\\\":\\\"featured_match\\\",\\\"event_date\\\":\\\"20260528\\\",\\\"event_timestamp\\\":1779987631301000,\\\"user_id\\\":\\\"d390d6fa-3e56-4b83-8b8b-9cc63e844b9b\\\"}},{\\\"eventName\\\":\\\"user_interaction\\\",\\\"eventParams\\\":{\\\"action\\\":\\\"impression\\\",\\\"location\\\":\\\"main_page\\\",\\\"type\\\":\\\"featured_match\\\",\\\"event_date\\\":\\\"20260528\\\",\\\"event_timestamp\\\":1779987631301000,\\\"user_id\\\":\\\"d390d6fa-3e56-4b83-8b8b-9cc63e844b9b\\\"}},{\\\"eventName\\\":\\\"event_vote_impression\\\",\\\"eventParams\\\":{\\\"id\\\":15891670,\\\"type\\\":\\\"who_will_win\\\",\\\"position\\\":\\\"1\\\",\\\"location\\\":\\\"featured_match\\\",\\\"event_date\\\":\\\"20260528\\\",\\\"event_timestamp\\\":1779987632032000,\\\"user_id\\\":\\\"d390d6fa-3e56-4b83-8b8b-9cc63e844b9b\\\"}},{\\\"eventName\\\":\\\"odds_impression_custom\\\",\\\"eventParams\\\":{\\\"id\\\":15891670,\\\"provider\\\":\\\"bet365-croatia\\\",\\\"category\\\":\\\"Full time\\\",\\\"location\\\":\\\"featured_match\\\",\\\"type\\\":\\\"unbranded\\\",\\\"status\\\":\\\"notstarted\\\",\\\"value\\\":0,\\\"currency\\\":\\\"EUR\\\",\\\"group\\\":\\\"regular\\\",\\\"event_date\\\":\\\"20260528\\\",\\\"event_timestamp\\\":1779987632050000,\\\"user_id\\\":\\\"d390d6fa-3e56-4b83-8b8b-9cc63e844b9b\\\"}},{\\\"eventName\\\":\\\"core_web_vitals\\\",\\\"eventParams\\\":{\\\"name\\\":\\\"LCP\\\",\\\"value\\\":5048,\\\"page_load_id\\\":\\\"v5-1779987630493-7473192678665\\\",\\\"event_date\\\":\\\"20260528\\\",\\\"event_timestamp\\\":1779987635503000,\\\"user_id\\\":\\\"d390d6fa-3e56-4b83-8b8b-9cc63e844b9b\\\"}},{\\\"eventName\\\":\\\"ads_error\\\",\\\"eventParams\\\":{\\\"id\\\":3,\\\"position\\\":\\\"/21866864457/WEB_Desktop-Mobile_Homepage_Gift_Fluid\\\",\\\"provider\\\":\\\"google\\\",\\\"type\\\":\\\"banner\\\",\\\"event_date\\\":\\\"20260528\\\",\\\"event_timestamp\\\":1779987635858000,\\\"user_id\\\":\\\"d390d6fa-3e56-4b83-8b8b-9cc63e844b9b\\\"}},{\\\"eventName\\\":\\\"ads_error\\\",\\\"eventParams\\\":{\\\"id\\\":3,\\\"position\\\":\\\"/21866864457/WEB_Desktop_Homepage_Bottom_300x250\\\",\\\"provider\\\":\\\"google\\\",\\\"type\\\":\\\"banner\\\",\\\"event_date\\\":\\\"20260528\\\",\\\"event_timestamp\\\":1779987635858000,\\\"user_id\\\":\\\"d390d6fa-3e56-4b83-8b8b-9cc63e844b9b\\\"}},{\\\"eventName\\\":\\\"ads_impression_custom\\\",\\\"eventParams\\\":{\\\"position\\\":\\\"affiliate_300x250\\\",\\\"name\\\":\\\"Webshop beige v2 / English / May\\\",\\\"provider\\\":\\\"sofascore\\\",\\\"type\\\":\\\"banner\\\",\\\"event_date\\\":\\\"20260528\\\",\\\"event_timestamp\\\":1779987636004000,\\\"user_id\\\":\\\"d390d6fa-3e56-4b83-8b8b-9cc63e844b9b\\\"}}]\""
+        },
+        {
+          "name": "sofa.theme",
+          "value": "{\"theme\":\"auto\"}"
+        },
+        {
+          "name": "user_logged",
+          "value": "true"
+        },
+        {
+          "name": "showSurvey2026005",
+          "value": "{\"show\":true,\"sample\":1}"
+        },
+        {
+          "name": "persist:auth",
+          "value": "{\"uuid\":\"\\\"d390d6fa-3e56-4b83-8b8b-9cc63e844b9b\\\"\",\"_persist\":\"{\\\"rehydrated\\\":true}\"}"
+        },
+        {
+          "name": "user-type",
+          "value": "{\"type\":\"fresh\"}"
+        },
+        {
+          "name": "persistedSportOrder",
+          "value": "[\"football\",\"tennis\",\"basketball\",\"baseball\",\"table-tennis\",\"american-football\",\"handball\",\"waterpolo\",\"ice-hockey\",\"volleyball\",\"darts\",\"esports\",\"motorsport\",\"cycling\",\"mma\",\"rugby\",\"futsal\",\"cricket\",\"badminton\",\"snooker\",\"aussie-rules\",\"beach-volley\",\"minifootball\",\"floorball\",\"bandy\",\"padel\"]"
+        },
+        {
+          "name": "persist:odds",
+          "value": "{\"type\":\"\\\"decimal\\\"\",\"isOddsTypeSet\":\"true\",\"selectedProviderId\":\"1349\",\"selectedOddsTabProviderId\":\"1349\",\"selectedFeaturedTournamentProviders\":\"{}\",\"_persist\":\"{\\\"rehydrated\\\":true}\",\"providers\":\"[{\\\"provider\\\":{\\\"name\\\":\\\"bet365 Croatia\\\",\\\"slug\\\":\\\"bet365-croatia\\\",\\\"defaultBetSlipLink\\\":\\\"https://www.bet365.com/olp/open-account?affiliate=365_01301314\\\",\\\"oddsFrom\\\":{\\\"name\\\":\\\"bet365\\\",\\\"slug\\\":\\\"bet365\\\",\\\"defaultBetSlipLink\\\":\\\"https://www.bet365.com/hub/aff/open-account?affiliate=365_04034487\\\",\\\"country\\\":\\\"international\\\",\\\"id\\\":1,\\\"colors\\\":{\\\"primary\\\":\\\"#017b5b\\\"}},\\\"liveOddsFrom\\\":{\\\"name\\\":\\\"bet365\\\",\\\"slug\\\":\\\"bet365\\\",\\\"defaultBetSlipLink\\\":\\\"https://www.bet365.com/hub/aff/open-account?affiliate=365_04034487\\\",\\\"country\\\":\\\"international\\\",\\\"id\\\":1,\\\"colors\\\":{\\\"primary\\\":\\\"#017b5b\\\"}},\\\"country\\\":\\\"HR\\\",\\\"id\\\":1349,\\\"colors\\\":{\\\"primary\\\":\\\"#017b5b\\\"}},\\\"branded\\\":false,\\\"weight\\\":100,\\\"featuredOddsType\\\":\\\"default\\\",\\\"defaultBetSlipLink\\\":\\\"https://www.sofascore.com\\\",\\\"betSlipLink\\\":\\\"https://www.sofascore.com\\\",\\\"type\\\":\\\"web\\\",\\\"campaignId\\\":4,\\\"fallbackProvider\\\":{\\\"name\\\":\\\"bet365\\\",\\\"slug\\\":\\\"bet365\\\",\\\"defaultBetSlipLink\\\":\\\"https://www.bet365.com/hub/aff/open-account?affiliate=365_04034487\\\",\\\"country\\\":\\\"international\\\",\\\"id\\\":1,\\\"colors\\\":{\\\"primary\\\":\\\"#017b5b\\\"}},\\\"id\\\":23734,\\\"impressionCostEncrypted\\\":\\\"5mG72X9qJfP1xpneTaW/rjzWmDJldrs=\\\"}]\",\"oddsTabProviders\":\"[{\\\"provider\\\":{\\\"name\\\":\\\"bet365 Croatia\\\",\\\"slug\\\":\\\"bet365-croatia\\\",\\\"defaultBetSlipLink\\\":\\\"https://www.bet365.com/olp/open-account?affiliate=365_01301314\\\",\\\"oddsFrom\\\":{\\\"name\\\":\\\"bet365\\\",\\\"slug\\\":\\\"bet365\\\",\\\"defaultBetSlipLink\\\":\\\"https://www.bet365.com/hub/aff/open-account?affiliate=365_04034487\\\",\\\"country\\\":\\\"international\\\",\\\"id\\\":1,\\\"colors\\\":{\\\"primary\\\":\\\"#017b5b\\\"}},\\\"liveOddsFrom\\\":{\\\"name\\\":\\\"bet365\\\",\\\"slug\\\":\\\"bet365\\\",\\\"defaultBetSlipLink\\\":\\\"https://www.bet365.com/hub/aff/open-account?affiliate=365_04034487\\\",\\\"country\\\":\\\"international\\\",\\\"id\\\":1,\\\"colors\\\":{\\\"primary\\\":\\\"#017b5b\\\"}},\\\"country\\\":\\\"HR\\\",\\\"id\\\":1349,\\\"colors\\\":{\\\"primary\\\":\\\"#017b5b\\\"}},\\\"branded\\\":false,\\\"weight\\\":100,\\\"featuredOddsType\\\":\\\"default\\\",\\\"defaultBetSlipLink\\\":\\\"https://www.sofascore.com\\\",\\\"betSlipLink\\\":\\\"https://www.sofascore.com\\\",\\\"type\\\":\\\"web-odds\\\",\\\"campaignId\\\":5,\\\"fallbackProvider\\\":{\\\"name\\\":\\\"bet365\\\",\\\"slug\\\":\\\"bet365\\\",\\\"defaultBetSlipLink\\\":\\\"https://www.bet365.com/hub/aff/open-account?affiliate=365_04034487\\\",\\\"country\\\":\\\"international\\\",\\\"id\\\":1,\\\"colors\\\":{\\\"primary\\\":\\\"#017b5b\\\"}},\\\"id\\\":23735,\\\"impressionCostEncrypted\\\":\\\"5mG72X9qJfP1xpneTaW/rjzWmDJldrs=\\\"}]\",\"featuredTournamentProviders\":\"[]\"}"
+        },
+        {
+          "name": "persist:locale",
+          "value": "{\"selectedLocale\":\"\\\"hr\\\"\",\"geoIPAlpha2\":\"\\\"HR\\\"\",\"continent\":\"\\\"EU\\\"\",\"_persist\":\"{\\\"rehydrated\\\":true}\"}"
+        },
+        {
+          "name": "persist:uicontrols",
+          "value": "{\"showListOdds\":\"false\",\"showAuthModal\":\"false\",\"siteBettingAgeConfirmed\":\"null\",\"surveys\":\"{\\\"2026005\\\":{\\\"pageViewCount\\\":1,\\\"dayStreak\\\":1,\\\"lastVisit\\\":1779987630}}\",\"inAppSurveys\":\"{}\",\"isMenuOpen\":\"false\",\"triggerToast\":\"{\\\"msgId\\\":\\\"\\\",\\\"toastOptions\\\":{\\\"autoClose\\\":3000,\\\"closeButton\\\":false,\\\"closeOnClick\\\":false,\\\"position\\\":\\\"bottom-center\\\",\\\"className\\\":\\\"sofa-toast--info\\\"}}\",\"muteChallengeResultPopup\":\"false\",\"calendarType\":\"\\\"iso8601\\\"\",\"_persist\":\"{\\\"rehydrated\\\":true}\"}"
+        },
+        {
+          "name": "persist:votes",
+          "value": "{\"eventVotes\":\"{}\",\"dailyBonus\":\"null\",\"changedVotes\":\"[]\",\"_persist\":\"{\\\"rehydrated\\\":true}\"}"
+        },
+        {
+          "name": "_GESPSK-esp.criteo.com",
+          "value": "[\"esp.criteo.com\",null,1779987635130,null,null,null,null,null,null,[100]]"
+        },
+        {
+          "name": "persist:branding",
+          "value": "{\"_persist\":\"{\\\"rehydrated\\\":true}\",\"config\":\"{\\\"teams\\\":{},\\\"uniqueTournaments\\\":{},\\\"oddsTab\\\":{},\\\"fantasyCompetitions\\\":{},\\\"featuredUniqueTournaments\\\":{\\\"16\\\":{\\\"upperImageDisplayType\\\":\\\"adunit\\\",\\\"upperAdUnitHeight\\\":82,\\\"lowerImageDisplayType\\\":\\\"adunit\\\",\\\"lowerAdUnitHeight\\\":130,\\\"playerOfTheMatch\\\":true,\\\"timer\\\":true,\\\"id\\\":51,\\\"brand\\\":{\\\"name\\\":\\\"Karlovacko Croatia\\\",\\\"slug\\\":\\\"karlovacko-croatia\\\",\\\"color\\\":{\\\"light\\\":\\\"#EB0005\\\",\\\"dark\\\":\\\"#EB0005\\\"},\\\"textColor\\\":{\\\"light\\\":\\\"#ffffff\\\",\\\"dark\\\":\\\"#ffffff\\\"},\\\"id\\\":56},\\\"url\\\":\\\"https://ad.doubleclick.net/ddm/trackclk/N709945.3593341SOFASCORE/B35932170.447985142;dc_trk_aid=641478653;dc_trk_cid=257071449;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1\\\"}}}\"}"
+        },
+        {
+          "name": "persist:units",
+          "value": "{\"_persist\":\"{\\\"rehydrated\\\":true}\",\"measurementUnits\":\"\\\"metric\\\"\"}"
+        }
+      ]
+    },
+    {
+      "origin": "https://www.google.com",
+      "localStorage": [
+        {
+          "name": "rc::h",
+          "value": "1779987638817"
+        },
+        {
+          "name": "rc::a",
+          "value": "MW5mNzl6cHEzeXd1eg=="
+        },
+        {
+          "name": "rc::f",
+          "value": "0aACC5ciBASpI1PxvHf6koUGY1i4wkFCbeRlmKv4ZCD5oIAME3hvP_RZix3RnaroBA-g7dlrs"
+        }
+      ]
+    }
+  ]
+}
