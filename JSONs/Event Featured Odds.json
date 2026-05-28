@@ -1,0 +1,103 @@
+{
+  "featured": {
+    "default": {
+      "sourceId": 194821562,
+      "structureType": 1,
+      "marketId": 1,
+      "marketName": "Full time",
+      "isLive": false,
+      "fid": 194821562,
+      "suspended": false,
+      "id": 312236887,
+      "marketGroup": "1X2",
+      "marketPeriod": "Full-time",
+      "choices": [
+        {
+          "initialFractionalValue": "17/20",
+          "fractionalValue": "19/20",
+          "sourceId": 1317011950,
+          "name": "1",
+          "change": 1
+        },
+        {
+          "initialFractionalValue": "11/5",
+          "fractionalValue": "21/10",
+          "sourceId": 1317011955,
+          "name": "X",
+          "change": -1
+        },
+        {
+          "initialFractionalValue": "19/5",
+          "fractionalValue": "7/2",
+          "sourceId": 1317011957,
+          "name": "2",
+          "change": -1
+        }
+      ]
+    },
+    "asian": {
+      "sourceId": 194821562,
+      "structureType": 1,
+      "marketId": 17,
+      "marketName": "Asian handicap",
+      "isLive": false,
+      "fid": 194821563,
+      "suspended": false,
+      "id": 312253138,
+      "marketGroup": "Asian Handicap",
+      "marketPeriod": "Full-time",
+      "choices": [
+        {
+          "initialFractionalValue": "37/40",
+          "fractionalValue": "39/40",
+          "sourceId": 1317011970,
+          "name": "(-0.5) Nice",
+          "change": 1
+        },
+        {
+          "initialFractionalValue": "37/40",
+          "fractionalValue": "7/8",
+          "sourceId": 1317011975,
+          "name": "(0.5) Saint-Étienne",
+          "change": -1
+        }
+      ]
+    },
+    "fullTime": {
+      "sourceId": 194821562,
+      "structureType": 1,
+      "marketId": 1,
+      "marketName": "Full time",
+      "isLive": false,
+      "fid": 194821562,
+      "suspended": false,
+      "id": 312236887,
+      "marketGroup": "1X2",
+      "marketPeriod": "Full-time",
+      "choices": [
+        {
+          "initialFractionalValue": "17/20",
+          "fractionalValue": "19/20",
+          "sourceId": 1317011950,
+          "name": "1",
+          "change": 1
+        },
+        {
+          "initialFractionalValue": "11/5",
+          "fractionalValue": "21/10",
+          "sourceId": 1317011955,
+          "name": "X",
+          "change": -1
+        },
+        {
+          "initialFractionalValue": "19/5",
+          "fractionalValue": "7/2",
+          "sourceId": 1317011957,
+          "name": "2",
+          "change": -1
+        }
+      ]
+    }
+  },
+  "hasMoreOdds": true
+}
