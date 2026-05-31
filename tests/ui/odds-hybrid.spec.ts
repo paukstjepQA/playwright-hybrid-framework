@@ -3,12 +3,12 @@ import { test, expect } from '@playwright/test';
 
 // pomoćna funkcija - izračun oddsa iz fractional u decimal value
     function uDecimalu(razlomak: string): string {
-    const dijelovi = razlomak.split('/'); // Cijepa string na znaku '/'
+    const dijelovi = razlomak.split('/'); // lomi string na znaku '/'
     const brojnik = Number(dijelovi[0]);  // Prvi dio (npr. 19)
     const nazivnik = Number(dijelovi[1]); // Drugi dio (npr. 20)
     
     const izracun = (brojnik / nazivnik) + 1;
-    return izracun.toFixed(2); // .toFixed(2) osigurava da uvijek imamo dvije decimale (npr. 3.10)
+    return izracun.toFixed(2); // AI Tutor kaže: .toFixed(2) osigurava da uvijek imamo dvije decimale (npr. 3.10)
 }
     test('Hibridni test: Prisluškivanje tečajeva u letu', async ({ page }) => {
     // Govorimo Playwrightu da počne slušati mrežu i čeka odgovor čiji URL sadrži '/odds/1/featured'
@@ -37,7 +37,7 @@ import { test, expect } from '@playwright/test';
    
 // ASERCIJA
     // ==========================================
-    // Sada mašinu šaljemo da traži točno one brojeve koje je izračunao uz pomoćnu funkciju
+    // Sada mašinu šaljem da traži točno one brojeve koje je izračunao uz pomoćnu funkciju
     await expect(page.locator('body')).toContainText(tecaj1_ui);
     await expect(page.locator('body')).toContainText(tecajX_ui);
     await expect(page.locator('body')).toContainText(tecaj2_ui);
